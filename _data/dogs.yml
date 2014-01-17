@@ -1,0 +1,14 @@
+shadow:
+  age: 1
+  color: black
+  type: rottweiler
+
+jamison:
+  age: 2
+  color: brown, black, white
+  type: rottweiler
+
+happy:
+  age: 5
+  color: white
+  type: poodle
